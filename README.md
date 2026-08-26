@@ -1,2 +1,2 @@
 # BUT-PLAY
-but play
+but play. Made by AI
